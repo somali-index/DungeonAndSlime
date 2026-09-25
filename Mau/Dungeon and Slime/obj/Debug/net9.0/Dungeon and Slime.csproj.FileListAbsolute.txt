@@ -1,0 +1,39 @@
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\Dungeon and Slime.exe
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\Dungeon and Slime.deps.json
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\Dungeon and Slime.runtimeconfig.json
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\Dungeon and Slime.dll
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\Dungeon and Slime.pdb
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\MonoGame.Framework.dll
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\NVorbis.dll
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\runtimes\win-arm64\native\openal.dll
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\runtimes\linux-arm64\native\libSDL2-2.0.so.0
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\runtimes\win-arm64\native\SDL2.dll
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\obj\Debug\net9.0\mgcb.tool.restore
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\obj\Debug\net9.0\Dungeon and Slime.csproj.AssemblyReference.cache
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\obj\Debug\net9.0\Dungeon and Slime.GeneratedMSBuildEditorConfig.editorconfig
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\obj\Debug\net9.0\Dungeon and Slime.AssemblyInfoInputs.cache
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\obj\Debug\net9.0\Dungeon and Slime.AssemblyInfo.cs
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\obj\Debug\net9.0\Dungeon and Slime.csproj.CoreCompileInputs.cache
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\obj\Debug\net9.0\Dungeon .08035811.Up2Date
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\obj\Debug\net9.0\Dungeon and Slime.dll
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\obj\Debug\net9.0\refint\Dungeon and Slime.dll
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\obj\Debug\net9.0\Dungeon and Slime.pdb
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\obj\Debug\net9.0\Dungeon and Slime.genruntimeconfig.cache
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\obj\Debug\net9.0\ref\Dungeon and Slime.dll
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\MonoGameLibrary.dll
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\MonoGameLibrary.pdb
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\Content\Texture\logo.xnb

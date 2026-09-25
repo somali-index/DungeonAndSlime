@@ -1,0 +1,12 @@
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.deps.json
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.dll
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.pdb
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.AssemblyReference.cache
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfoInputs.cache
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfo.cs
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.CoreCompileInputs.cache
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.dll
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\MonoGameLibrary\obj\Debug\net9.0\refint\MonoGameLibrary.dll
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.pdb
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\MonoGameLibrary\obj\Debug\net9.0\ref\MonoGameLibrary.dll
