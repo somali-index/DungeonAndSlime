@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/DuAnCaNhan/MonoGameApp/DungeonSlime/Mau/Dungeon and Slime/Content/Texture/logo.png</SourceFile>
-  <SourceTime>2026-08-13T16:10:13.9737492+07:00</SourceTime>
-  <DestFile>C:/DuAnCaNhan/MonoGameApp/DungeonSlime/Mau/Dungeon and Slime/Content/bin/DesktopGL/Content/Texture/logo.xnb</DestFile>
-  <DestTime>2026-09-25T05:18:38.7625135+07:00</DestTime>
+  <SourceFile>C:/Users/somali/Desktop/gmaeSlimeDugeon/Mau/Dungeon and Slime/Content/Texture/logo.png</SourceFile>
+  <SourceTime>2026-09-25T12:15:34.8717338+07:00</SourceTime>
+  <DestFile>C:/Users/somali/Desktop/gmaeSlimeDugeon/Mau/Dungeon and Slime/Content/bin/DesktopGL/Content/Texture/logo.xnb</DestFile>
+  <DestTime>2026-10-12T21:00:24.7185432+07:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2025-10-20T21:25:32+07:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

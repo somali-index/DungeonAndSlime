@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DuAnCaNhan\\MonoGameApp\\DungeonSlime\\Mau\\Dungeon and Slime\\Dungeon and Slime.csproj": {}
+    "C:\\Users\\somali\\Desktop\\gmaeSlimeDugeon\\Mau\\Dungeon and Slime\\Dungeon and Slime.csproj": {}
   },
   "projects": {
-    "C:\\DuAnCaNhan\\MonoGameApp\\DungeonSlime\\Mau\\Dungeon and Slime\\Dungeon and Slime.csproj": {
+    "C:\\Users\\somali\\Desktop\\gmaeSlimeDugeon\\Mau\\Dungeon and Slime\\Dungeon and Slime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DuAnCaNhan\\MonoGameApp\\DungeonSlime\\Mau\\Dungeon and Slime\\Dungeon and Slime.csproj",
+        "projectUniqueName": "C:\\Users\\somali\\Desktop\\gmaeSlimeDugeon\\Mau\\Dungeon and Slime\\Dungeon and Slime.csproj",
         "projectName": "Dungeon and Slime",
-        "projectPath": "C:\\DuAnCaNhan\\MonoGameApp\\DungeonSlime\\Mau\\Dungeon and Slime\\Dungeon and Slime.csproj",
-        "packagesPath": "C:\\Users\\zzzam\\.nuget\\packages\\",
-        "outputPath": "C:\\DuAnCaNhan\\MonoGameApp\\DungeonSlime\\Mau\\Dungeon and Slime\\obj\\",
+        "projectPath": "C:\\Users\\somali\\Desktop\\gmaeSlimeDugeon\\Mau\\Dungeon and Slime\\Dungeon and Slime.csproj",
+        "packagesPath": "C:\\Users\\somali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\somali\\Desktop\\gmaeSlimeDugeon\\Mau\\Dungeon and Slime\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\zzzam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\somali\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,11 +30,10 @@
         },
         "frameworks": {
           "net9.0": {
-            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\DuAnCaNhan\\MonoGameApp\\DungeonSlime\\Mau\\MonoGameLibrary\\MonoGameLibrary.csproj": {
-                "projectPath": "C:\\DuAnCaNhan\\MonoGameApp\\DungeonSlime\\Mau\\MonoGameLibrary\\MonoGameLibrary.csproj"
+              "C:\\Users\\somali\\Desktop\\gmaeSlimeDugeon\\Mau\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+                "projectPath": "C:\\Users\\somali\\Desktop\\gmaeSlimeDugeon\\Mau\\MonoGameLibrary\\MonoGameLibrary.csproj"
               }
             }
           }
@@ -49,11 +48,10 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
-          "framework": "net9.0",
           "targetAlias": "net9.0",
           "dependencies": {
             "MonoGame.Content.Builder.Task": {
@@ -81,24 +79,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\DuAnCaNhan\\MonoGameApp\\DungeonSlime\\Mau\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+    "C:\\Users\\somali\\Desktop\\gmaeSlimeDugeon\\Mau\\MonoGameLibrary\\MonoGameLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DuAnCaNhan\\MonoGameApp\\DungeonSlime\\Mau\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\somali\\Desktop\\gmaeSlimeDugeon\\Mau\\MonoGameLibrary\\MonoGameLibrary.csproj",
         "projectName": "MonoGameLibrary",
-        "projectPath": "C:\\DuAnCaNhan\\MonoGameApp\\DungeonSlime\\Mau\\MonoGameLibrary\\MonoGameLibrary.csproj",
-        "packagesPath": "C:\\Users\\zzzam\\.nuget\\packages\\",
-        "outputPath": "C:\\DuAnCaNhan\\MonoGameApp\\DungeonSlime\\Mau\\MonoGameLibrary\\obj\\",
+        "projectPath": "C:\\Users\\somali\\Desktop\\gmaeSlimeDugeon\\Mau\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "packagesPath": "C:\\Users\\somali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\somali\\Desktop\\gmaeSlimeDugeon\\Mau\\MonoGameLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\zzzam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\somali\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -111,7 +109,6 @@
         },
         "frameworks": {
           "net9.0": {
-            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {}
           }
@@ -126,11 +123,10 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
-          "framework": "net9.0",
           "targetAlias": "net9.0",
           "dependencies": {
             "MonoGame.Framework.DesktopGL": {
@@ -155,7 +151,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

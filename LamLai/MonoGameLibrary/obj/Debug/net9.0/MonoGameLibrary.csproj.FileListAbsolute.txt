@@ -1,0 +1,13 @@
+C:\Users\somali\Desktop\gmaeSlimeDugeon\LamLai\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.deps.json
+C:\Users\somali\Desktop\gmaeSlimeDugeon\LamLai\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.dll
+C:\Users\somali\Desktop\gmaeSlimeDugeon\LamLai\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.pdb
+C:\Users\somali\Desktop\gmaeSlimeDugeon\LamLai\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.AssemblyReference.cache
+C:\Users\somali\Desktop\gmaeSlimeDugeon\LamLai\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somali\Desktop\gmaeSlimeDugeon\LamLai\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfoInputs.cache
+C:\Users\somali\Desktop\gmaeSlimeDugeon\LamLai\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfo.cs
+C:\Users\somali\Desktop\gmaeSlimeDugeon\LamLai\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\somali\Desktop\gmaeSlimeDugeon\LamLai\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.sourcelink.json
+C:\Users\somali\Desktop\gmaeSlimeDugeon\LamLai\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.dll
+C:\Users\somali\Desktop\gmaeSlimeDugeon\LamLai\MonoGameLibrary\obj\Debug\net9.0\refint\MonoGameLibrary.dll
+C:\Users\somali\Desktop\gmaeSlimeDugeon\LamLai\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.pdb
+C:\Users\somali\Desktop\gmaeSlimeDugeon\LamLai\MonoGameLibrary\obj\Debug\net9.0\ref\MonoGameLibrary.dll
