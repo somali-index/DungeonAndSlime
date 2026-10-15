@@ -82,3 +82,9 @@ C:\Users\somali\Desktop\gmaeSlimeDugeon\Mau\Dungeon and Slime\bin\Debug\net9.0\C
 C:\Users\somali\Desktop\gmaeSlimeDugeon\Mau\Dungeon and Slime\bin\Debug\net9.0\Content\images\atlas-definition.xml
 C:\Users\somali\Desktop\gmaeSlimeDugeon\Mau\Dungeon and Slime\bin\Debug\net9.0\Content\images\atlas.xnb
 C:\Users\somali\Desktop\gmaeSlimeDugeon\Mau\Dungeon and Slime\bin\Debug\net9.0\Content\Texture\atlas-definition.xnb
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\Content\atlas.xnb
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\Content\images\atlas-definition.xml
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\Content\TextureAtlas\atlas-definition .xml
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\Content\images\atlas.xnb
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\bin\Debug\net9.0\Content\Texture\atlas-definition.xnb
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\Dungeon and Slime\obj\Debug\net9.0\Dungeon and Slime.sourcelink.json

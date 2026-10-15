@@ -23,3 +23,4 @@ C:\Users\somali\Desktop\gmaeSlimeDugeon\Mau\MonoGameLibrary\obj\Debug\net9.0\Mon
 C:\Users\somali\Desktop\gmaeSlimeDugeon\Mau\MonoGameLibrary\obj\Debug\net9.0\refint\MonoGameLibrary.dll
 C:\Users\somali\Desktop\gmaeSlimeDugeon\Mau\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.pdb
 C:\Users\somali\Desktop\gmaeSlimeDugeon\Mau\MonoGameLibrary\obj\Debug\net9.0\ref\MonoGameLibrary.dll
+C:\DuAnCaNhan\MonoGameApp\DungeonSlime\Mau\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.sourcelink.json

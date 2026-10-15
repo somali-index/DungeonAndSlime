@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/somali/Desktop/gmaeSlimeDugeon/Mau/Dungeon and Slime/Content/Texture/atlas-definition.xml</SourceFile>
-  <SourceTime>2025-10-20T20:59:04+07:00</SourceTime>
-  <DestFile>C:/Users/somali/Desktop/gmaeSlimeDugeon/Mau/Dungeon and Slime/Content/bin/DesktopGL/Content/Texture/atlas-definition.xnb</DestFile>
-  <DestTime>2026-10-13T15:38:48.5388713+07:00</DestTime>
+  <SourceFile>C:/DuAnCaNhan/MonoGameApp/DungeonSlime/Mau/Dungeon and Slime/Content/Texture/atlas-definition.xml</SourceFile>
+  <SourceTime>2026-10-15T07:51:39.8966938+07:00</SourceTime>
+  <DestFile>C:/DuAnCaNhan/MonoGameApp/DungeonSlime/Mau/Dungeon and Slime/Content/bin/DesktopGL/Content/Texture/atlas-definition.xnb</DestFile>
+  <DestTime>2026-10-15T09:49:04.8941569+07:00</DestTime>
   <Importer>XmlImporter</Importer>
   <ImporterTime>2025-10-20T21:25:32+07:00</ImporterTime>
   <Processor>PassThroughProcessor</Processor>

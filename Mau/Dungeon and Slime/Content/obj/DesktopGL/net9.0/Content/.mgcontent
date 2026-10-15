@@ -4,9 +4,9 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/somali/Desktop/gmaeSlimeDugeon/Mau/Dungeon and Slime/Content/images/atlas.png</File>
-    <File>C:/Users/somali/Desktop/gmaeSlimeDugeon/Mau/Dungeon and Slime/Content/Texture/atlas-definition.xml</File>
-    <File>C:/Users/somali/Desktop/gmaeSlimeDugeon/Mau/Dungeon and Slime/Content/Texture/logo.png</File>
+    <File>C:/DuAnCaNhan/MonoGameApp/DungeonSlime/Mau/Dungeon and Slime/Content/images/atlas.png</File>
+    <File>C:/DuAnCaNhan/MonoGameApp/DungeonSlime/Mau/Dungeon and Slime/Content/Texture/atlas-definition.xml</File>
+    <File>C:/DuAnCaNhan/MonoGameApp/DungeonSlime/Mau/Dungeon and Slime/Content/Texture/logo.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
