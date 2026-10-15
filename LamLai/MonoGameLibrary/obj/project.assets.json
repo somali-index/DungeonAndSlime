@@ -1,8 +1,8 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net9.0": {
-      "MonoGame.Framework.DesktopGL/3.8.5.1": {
+      "MonoGame.Framework.DesktopGL/3.8.6": {
         "type": "package",
         "dependencies": {
           "MonoGame.Library.OpenAL": "1.24.3.4",
@@ -139,10 +139,10 @@
     }
   },
   "libraries": {
-    "MonoGame.Framework.DesktopGL/3.8.5.1": {
-      "sha512": "za6tOSYT2xpks932wU/WcpPu2xkUyKwn251gkRuiJ/3XPZBdwds7RPXRhtcrZGnZ2jtjtwh4upRLd+EGrrWtFw==",
+    "MonoGame.Framework.DesktopGL/3.8.6": {
+      "sha512": "pVAwFo+wNCco7881v8VAkPcls/jYVyfzxx/eSBMuT45ZqZcTFqptsZxd8KwBEE5PQc5UxbX5erGh0rwtFGsKVg==",
       "type": "package",
-      "path": "monogame.framework.desktopgl/3.8.5.1",
+      "path": "monogame.framework.desktopgl/3.8.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -151,7 +151,7 @@
         "build/MonoGame.Framework.DesktopGL.targets",
         "lib/net8.0/MonoGame.Framework.dll",
         "lib/net8.0/MonoGame.Framework.xml",
-        "monogame.framework.desktopgl.3.8.5.1.nupkg.sha512",
+        "monogame.framework.desktopgl.3.8.6.nupkg.sha512",
         "monogame.framework.desktopgl.nuspec"
       ]
     },
@@ -288,23 +288,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\somali\\.nuget\\packages\\": {},
+    "C:\\Users\\zzzam\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\somali\\Desktop\\gmaeSlimeDugeon\\LamLai\\MonoGameLibrary\\MonoGameLibrary.csproj",
+      "projectUniqueName": "C:\\DuAnCaNhan\\MonoGameApp\\DungeonSlime\\LamLai\\MonoGameLibrary\\MonoGameLibrary.csproj",
       "projectName": "MonoGameLibrary",
-      "projectPath": "C:\\Users\\somali\\Desktop\\gmaeSlimeDugeon\\LamLai\\MonoGameLibrary\\MonoGameLibrary.csproj",
-      "packagesPath": "C:\\Users\\somali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\somali\\Desktop\\gmaeSlimeDugeon\\LamLai\\MonoGameLibrary\\obj\\",
+      "projectPath": "C:\\DuAnCaNhan\\MonoGameApp\\DungeonSlime\\LamLai\\MonoGameLibrary\\MonoGameLibrary.csproj",
+      "packagesPath": "C:\\Users\\zzzam\\.nuget\\packages\\",
+      "outputPath": "C:\\DuAnCaNhan\\MonoGameApp\\DungeonSlime\\LamLai\\MonoGameLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\somali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\zzzam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -317,6 +317,7 @@
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "projectReferences": {}
         }
@@ -331,10 +332,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net9.0": {
+        "framework": "net9.0",
         "targetAlias": "net9.0",
         "dependencies": {
           "MonoGame.Framework.DesktopGL": {
@@ -359,7 +361,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
